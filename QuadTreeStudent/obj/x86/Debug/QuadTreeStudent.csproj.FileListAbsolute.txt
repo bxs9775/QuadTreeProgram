@@ -1,0 +1,75 @@
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\QuadTreeStudent.exe
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\QuadTreeStudent.pdb
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.dll
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.xml
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\obj\x86\Debug\QuadTreeStudent.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\obj\x86\Debug\QuadTreeStudent.exe
+C:\Users\Chris\Desktop\QuadTreeStudent\QuadTreeStudent\obj\x86\Debug\QuadTreeStudent.pdb
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\obj\x86\Debug\QuadTreeStudent.exe
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\obj\x86\Debug\QuadTreeStudent.pdb
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\QuadTreeStudent.exe
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\QuadTreeStudent.pdb
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.dll
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.xml
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Brian\Documents\Brian\RIT\Freshman Year\Spring semester\GDAPS2\Homework\Homework 4\QuadTreeStudent\QuadTreeStudent\obj\x86\Debug\QuadTreeStudent.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\obj\x86\Debug\QuadTreeStudent.exe
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\obj\x86\Debug\QuadTreeStudent.pdb
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\QuadTreeStudent.exe
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\QuadTreeStudent.pdb
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.dll
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.xml
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Brian\Documents\Brian\RIT\Sophmore year\Spring\Web Design\projects\part 2\project2part2\QuadTreeStudent\QuadTreeStudent\obj\x86\Debug\QuadTreeStudent.csprojResolveAssemblyReference.cache
